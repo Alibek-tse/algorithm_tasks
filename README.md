@@ -1,1 +1,1 @@
-# algorytm_tasks
+# algorithm_tasks
